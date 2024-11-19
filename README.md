@@ -2,6 +2,7 @@
 Q4)*Issue Title:** "App crashes on startup after update"
 - Linked to Milestone: "Beta Release Preparation"
 - Reason for Linking: This bug must be fixed before we can move forward with the beta release. The app cannot be released for testing if it crashes immediately upon opening.
+- 
 Issue Title: "Add dark mode toggle in settings"
 - Linked to Milestone: "Beta Release Preparation"
 - Reason for Linking: The dark mode feature is a major enhancement requested by users and is essential for improving user experience. Having this feature implemented before the beta release ensures that the product is well-received and user-friendly.
